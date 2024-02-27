@@ -1,0 +1,4 @@
+#%Policy Definition 0.1
+name: Data caching
+category: Custom
+providedCharacteristics: []
